@@ -1,5 +1,5 @@
-public class Person{
-	public static void main(String args[]){
-		System.out.println("迷茫啊！，李佩");
-	}
+public class Test{
+	String name = "高莹";
+	String name =  "李佩";
+	String name = "辛建英";
 }
